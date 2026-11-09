@@ -1,0 +1,9 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_chocolate_over_oatmeal,3.266667,0,98,assets/01_chocolate_over_oatmeal.mp4,Chocolate over oatmeal
+2,02_stone_trench_and_navy,2.866667,98,184,assets/02_stone_trench_and_navy.mp4,Stone trench and navy
+3,03_burgundy_point_of_interest,2.866667,184,270,assets/03_burgundy_point_of_interest.mp4,Burgundy point of interest
+4,04_olive_soft_layer,2.866667,270,356,assets/04_olive_soft_layer.mp4,Olive soft layer
+5,05_charcoal_and_stone,2.866667,356,442,assets/05_charcoal_and_stone.mp4,Charcoal and stone
+6,06_camel_over_denim,2.866667,442,528,assets/06_camel_over_denim.mp4,Camel over denim
+7,07_forest_and_oat,2.866667,528,614,assets/07_forest_and_oat.mp4,Forest and oat
+8,08_all_neutral_finale,2.866667,614,700,assets/08_all_neutral_finale.mp4,All-neutral finale

@@ -1,0 +1,150 @@
+{
+  "project": {
+    "title": "One navy blazer, six genuinely different styling formulas",
+    "brand": "NOVALY",
+    "series": "One Piece, Six Ways",
+    "platform": "Instagram Reels, Facebook Reels, YouTube Shorts"
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18
+  },
+  "cast": {
+    "woman_identity": "Original adult woman in her late 20s, warm medium skin, deep brown eyes, medium-length dark auburn bob with a slight natural wave, expressive brows, slim natural build, 168 cm. Maintain same face and hairstyle in every look.",
+    "man_identity": "Original adult man in his early 30s, medium tan skin, dark brown eyes, neatly cropped dark brown hair with a natural hairline, lightly defined jaw, relaxed athletic build, 182 cm. Maintain same face and hairstyle in every look."
+  },
+  "studio": {
+    "description": "A distinctive original fashion studio: pale limestone side wall, warm ivory pleated fabric backdrop, mid-tone walnut display plinth holding one small abstract clay sculpture at right, matte pale stone floor, soft daylight-style key from upper-left, gentle fill from the right, subtle floor shadows. Camera is at chest height, 35-50 mm full-frame equivalent lens, straight-on full-body two-person framing; fixed tripod; same floor marks and body scale."
+  },
+  "audio": {
+    "voice": "",
+    "music": "",
+    "voice_gain_db": 0,
+    "music_gain_db": -18,
+    "target_lufs": -16
+  },
+  "scenes": [
+    {
+      "id": "01_white_tee_and_denim",
+      "title": "White tee and denim",
+      "duration": 3.25,
+      "asset": "assets/01_white_tee_and_denim.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#24364B"
+        },
+        {
+          "name": "denim",
+          "hex": "#547295"
+        }
+      ],
+      "woman_outfit": "Same navy unstructured blazer over white cotton tee, straight mid-blue jeans and white sneakers",
+      "man_outfit": "Same navy blazer over white tee, clean straight denim and dark low sneakers",
+      "action": "Both models stand in fixed floor marks. Woman indicate blazer front; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "02_soft_trouser_pairing",
+      "title": "Soft trouser pairing",
+      "duration": 2.85,
+      "asset": "assets/02_soft_trouser_pairing.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#24364B"
+        },
+        {
+          "name": "cream",
+          "hex": "#ECE5D4"
+        }
+      ],
+      "woman_outfit": "Same navy blazer over ivory crew top, cream tailored trousers and pointed beige flats",
+      "man_outfit": "Same navy blazer over white knit and cream chinos with loafers",
+      "action": "Both models stand in fixed floor marks. Woman small one-hand presenting gesture; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "03_skirt_and_belt",
+      "title": "Skirt and belt",
+      "duration": 2.85,
+      "asset": "assets/03_skirt_and_belt.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#24364B"
+        },
+        {
+          "name": "stone",
+          "hex": "#A5A69C"
+        }
+      ],
+      "woman_outfit": "Same navy blazer over white fitted shell, stone column skirt and slim brown belt",
+      "man_outfit": "Same navy blazer with stone straight trousers and crisp white shirt",
+      "action": "Both models stand in fixed floor marks. Woman very small cuff movement; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "04_dress_layering",
+      "title": "Dress layering",
+      "duration": 2.85,
+      "asset": "assets/04_dress_layering.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#24364B"
+        },
+        {
+          "name": "beige",
+          "hex": "#D5BC97"
+        }
+      ],
+      "woman_outfit": "Same navy blazer over beige midi knit dress, dark leather shoes",
+      "man_outfit": "Same navy blazer over beige polo and dark tailored trousers",
+      "action": "Both models stand in fixed floor marks. Woman stand quietly, breathe; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "05_evening_black",
+      "title": "Evening black",
+      "duration": 2.85,
+      "asset": "assets/05_evening_black.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#24364B"
+        },
+        {
+          "name": "black",
+          "hex": "#25272A"
+        }
+      ],
+      "woman_outfit": "Same navy blazer over black satin blouse, black fluid trousers and neat heels",
+      "man_outfit": "Same navy blazer over black open-collar shirt and black trousers",
+      "action": "Both models stand in fixed floor marks. Woman one subtle chin movement; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "06_color_accent",
+      "title": "Color accent",
+      "duration": 2.85,
+      "asset": "assets/06_color_accent.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#24364B"
+        },
+        {
+          "name": "burgundy",
+          "hex": "#753948"
+        }
+      ],
+      "woman_outfit": "Same navy blazer over burgundy fine-knit shell, cream tailored trouser",
+      "man_outfit": "Same navy blazer over burgundy knit and cream pleated trousers",
+      "action": "Both models stand in fixed floor marks. Woman complete with faint nod; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    }
+  ]
+}

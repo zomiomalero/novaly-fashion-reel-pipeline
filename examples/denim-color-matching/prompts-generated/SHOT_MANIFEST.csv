@@ -1,0 +1,9 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_pale_denim_with_espresso,3.266667,0,98,assets/01_pale_denim_with_espresso.mp4,Pale denim with espresso
+2,02_pale_denim_with_rust,2.866667,98,184,assets/02_pale_denim_with_rust.mp4,Pale denim with rust
+3,03_mid_blue_with_ivory,2.866667,184,270,assets/03_mid_blue_with_ivory.mp4,Mid-blue with ivory
+4,04_mid_blue_with_forest,2.866667,270,356,assets/04_mid_blue_with_forest.mp4,Mid-blue with forest
+5,05_dark_indigo_with_cocoa,2.866667,356,442,assets/05_dark_indigo_with_cocoa.mp4,Dark indigo with cocoa
+6,06_dark_indigo_with_oatmeal,2.866667,442,528,assets/06_dark_indigo_with_oatmeal.mp4,Dark indigo with oatmeal
+7,07_black_denim_with_stone,2.866667,528,614,assets/07_black_denim_with_stone.mp4,Black denim with stone
+8,08_black_denim_with_burgundy,2.866667,614,700,assets/08_black_denim_with_burgundy.mp4,Black denim with burgundy

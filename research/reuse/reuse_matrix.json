@@ -1,0 +1,243 @@
+{
+  "method": "1fps source-frame sampling, 80x142 RGB normalized, central band y=25:140, per-pixel mean absolute RGB difference",
+  "threshold_8bit": 8.0,
+  "videos": 7,
+  "pairs": [
+    {
+      "a_index": 1,
+      "b_index": 2,
+      "minimum_distance": 3.053,
+      "median_nearest_distance": 12.661,
+      "matching_samples": 9,
+      "first_samples": 25,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 1,
+      "b_index": 3,
+      "minimum_distance": 59.949,
+      "median_nearest_distance": 69.819,
+      "matching_samples": 0,
+      "first_samples": 25,
+      "second_samples": 22,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 1,
+      "b_index": 4,
+      "minimum_distance": 2.454,
+      "median_nearest_distance": 11.969,
+      "matching_samples": 9,
+      "first_samples": 25,
+      "second_samples": 29,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 1,
+      "b_index": 5,
+      "minimum_distance": 15.142,
+      "median_nearest_distance": 21.653,
+      "matching_samples": 0,
+      "first_samples": 25,
+      "second_samples": 21,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 1,
+      "b_index": 6,
+      "minimum_distance": 3.013,
+      "median_nearest_distance": 11.17,
+      "matching_samples": 10,
+      "first_samples": 25,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 1,
+      "b_index": 7,
+      "minimum_distance": 2.082,
+      "median_nearest_distance": 10.963,
+      "matching_samples": 11,
+      "first_samples": 25,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 2,
+      "b_index": 3,
+      "minimum_distance": 60.242,
+      "median_nearest_distance": 70.657,
+      "matching_samples": 0,
+      "first_samples": 28,
+      "second_samples": 22,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 2,
+      "b_index": 4,
+      "minimum_distance": 2.851,
+      "median_nearest_distance": 7.926,
+      "matching_samples": 15,
+      "first_samples": 28,
+      "second_samples": 29,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 2,
+      "b_index": 5,
+      "minimum_distance": 16.142,
+      "median_nearest_distance": 23.837,
+      "matching_samples": 0,
+      "first_samples": 28,
+      "second_samples": 21,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 2,
+      "b_index": 6,
+      "minimum_distance": 0.719,
+      "median_nearest_distance": 0.889,
+      "matching_samples": 25,
+      "first_samples": 28,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 2,
+      "b_index": 7,
+      "minimum_distance": 1.78,
+      "median_nearest_distance": 4.785,
+      "matching_samples": 22,
+      "first_samples": 28,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 3,
+      "b_index": 4,
+      "minimum_distance": 59.937,
+      "median_nearest_distance": 66.958,
+      "matching_samples": 0,
+      "first_samples": 22,
+      "second_samples": 29,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 3,
+      "b_index": 5,
+      "minimum_distance": 58.969,
+      "median_nearest_distance": 68.114,
+      "matching_samples": 0,
+      "first_samples": 22,
+      "second_samples": 21,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 3,
+      "b_index": 6,
+      "minimum_distance": 60.233,
+      "median_nearest_distance": 66.873,
+      "matching_samples": 0,
+      "first_samples": 22,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 3,
+      "b_index": 7,
+      "minimum_distance": 60.494,
+      "median_nearest_distance": 66.671,
+      "matching_samples": 0,
+      "first_samples": 22,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 4,
+      "b_index": 5,
+      "minimum_distance": 15.349,
+      "median_nearest_distance": 26.223,
+      "matching_samples": 0,
+      "first_samples": 29,
+      "second_samples": 21,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 4,
+      "b_index": 6,
+      "minimum_distance": 1.557,
+      "median_nearest_distance": 6.593,
+      "matching_samples": 19,
+      "first_samples": 29,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 4,
+      "b_index": 7,
+      "minimum_distance": 3.295,
+      "median_nearest_distance": 6.912,
+      "matching_samples": 18,
+      "first_samples": 29,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 5,
+      "b_index": 6,
+      "minimum_distance": 15.07,
+      "median_nearest_distance": 21.636,
+      "matching_samples": 0,
+      "first_samples": 21,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 5,
+      "b_index": 7,
+      "minimum_distance": 14.732,
+      "median_nearest_distance": 20.808,
+      "matching_samples": 0,
+      "first_samples": 21,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    },
+    {
+      "a_index": 6,
+      "b_index": 7,
+      "minimum_distance": 1.759,
+      "median_nearest_distance": 3.52,
+      "matching_samples": 26,
+      "first_samples": 28,
+      "second_samples": 28,
+      "threshold": 8.0,
+      "interpretation": "Matching sample counts are asymmetric, because each frame in A searches nearest frame in B; study only."
+    }
+  ],
+  "cautions": [
+    "This is a similarity heuristic, not a copyright determination.",
+    "Shared studio, similar poses or reused garments can create false positives.",
+    "Only sampled frames are checked; event order and audio are not compared."
+  ]
+}

@@ -1,0 +1,7 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_white_tee_and_denim,3.266667,0,98,assets/01_white_tee_and_denim.mp4,White tee and denim
+2,02_soft_trouser_pairing,2.866667,98,184,assets/02_soft_trouser_pairing.mp4,Soft trouser pairing
+3,03_skirt_and_belt,2.866667,184,270,assets/03_skirt_and_belt.mp4,Skirt and belt
+4,04_dress_layering,2.866667,270,356,assets/04_dress_layering.mp4,Dress layering
+5,05_evening_black,2.866667,356,442,assets/05_evening_black.mp4,Evening black
+6,06_color_accent,2.866667,442,528,assets/06_color_accent.mp4,Color accent

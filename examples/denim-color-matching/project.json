@@ -1,0 +1,190 @@
+{
+  "project": {
+    "title": "Choose top colors that make different denim washes feel intentional",
+    "brand": "NOVALY",
+    "series": "Denim Color Match",
+    "platform": "Instagram Reels, Facebook Reels, YouTube Shorts"
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18
+  },
+  "cast": {
+    "woman_identity": "Original adult woman in her late 20s, warm medium skin, deep brown eyes, medium-length dark auburn bob with a slight natural wave, expressive brows, slim natural build, 168 cm. Maintain same face and hairstyle in every look.",
+    "man_identity": "Original adult man in his early 30s, medium tan skin, dark brown eyes, neatly cropped dark brown hair with a natural hairline, lightly defined jaw, relaxed athletic build, 182 cm. Maintain same face and hairstyle in every look."
+  },
+  "studio": {
+    "description": "A distinctive original fashion studio: pale limestone side wall, warm ivory pleated fabric backdrop, mid-tone walnut display plinth holding one small abstract clay sculpture at right, matte pale stone floor, soft daylight-style key from upper-left, gentle fill from the right, subtle floor shadows. Camera is at chest height, 35-50 mm full-frame equivalent lens, straight-on full-body two-person framing; fixed tripod; same floor marks and body scale."
+  },
+  "audio": {
+    "voice": "",
+    "music": "",
+    "voice_gain_db": 0,
+    "music_gain_db": -18,
+    "target_lufs": -16
+  },
+  "scenes": [
+    {
+      "id": "01_pale_denim_with_espresso",
+      "title": "Pale denim with espresso",
+      "duration": 3.25,
+      "asset": "assets/01_pale_denim_with_espresso.mp4",
+      "colors": [
+        {
+          "name": "light denim",
+          "hex": "#8AB0CF"
+        },
+        {
+          "name": "espresso",
+          "hex": "#4B302B"
+        }
+      ],
+      "woman_outfit": "Pale straight jeans, espresso fitted cotton tee and tan handbag",
+      "man_outfit": "Pale relaxed jeans, espresso polo and loafers",
+      "action": "Both models stand in fixed floor marks. Woman point briefly to jean fabric; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "02_pale_denim_with_rust",
+      "title": "Pale denim with rust",
+      "duration": 2.85,
+      "asset": "assets/02_pale_denim_with_rust.mp4",
+      "colors": [
+        {
+          "name": "light denim",
+          "hex": "#8AB0CF"
+        },
+        {
+          "name": "rust",
+          "hex": "#A74D33"
+        }
+      ],
+      "woman_outfit": "Light blue jeans, rust sweater, simple ivory flats",
+      "man_outfit": "Light blue relaxed jeans, rust sweater and dark sneakers",
+      "action": "Both models stand in fixed floor marks. Woman tiny head turn; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "03_mid_blue_with_ivory",
+      "title": "Mid-blue with ivory",
+      "duration": 2.85,
+      "asset": "assets/03_mid_blue_with_ivory.mp4",
+      "colors": [
+        {
+          "name": "mid denim",
+          "hex": "#547BA1"
+        },
+        {
+          "name": "ivory",
+          "hex": "#F1E8D8"
+        }
+      ],
+      "woman_outfit": "Mid-blue wide-leg jeans with ivory slim crew top",
+      "man_outfit": "Mid-blue straight jeans with ivory open-collar Oxford",
+      "action": "Both models stand in fixed floor marks. Woman indicate white top hem; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "04_mid_blue_with_forest",
+      "title": "Mid-blue with forest",
+      "duration": 2.85,
+      "asset": "assets/04_mid_blue_with_forest.mp4",
+      "colors": [
+        {
+          "name": "mid denim",
+          "hex": "#547BA1"
+        },
+        {
+          "name": "forest",
+          "hex": "#3C5B48"
+        }
+      ],
+      "woman_outfit": "Mid-blue jeans with deep forest-green structured blouse",
+      "man_outfit": "Mid-blue jeans with forest-green short-sleeve knit polo",
+      "action": "Both models stand in fixed floor marks. Woman natural small hand movement; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "05_dark_indigo_with_cocoa",
+      "title": "Dark indigo with cocoa",
+      "duration": 2.85,
+      "asset": "assets/05_dark_indigo_with_cocoa.mp4",
+      "colors": [
+        {
+          "name": "indigo",
+          "hex": "#2C4568"
+        },
+        {
+          "name": "cocoa",
+          "hex": "#634A41"
+        }
+      ],
+      "woman_outfit": "Dark-indigo straight jeans with cocoa satin-look blouse",
+      "man_outfit": "Dark-indigo denim with cocoa open-collar shirt and suede loafers",
+      "action": "Both models stand in fixed floor marks. Woman relax shoulders; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "06_dark_indigo_with_oatmeal",
+      "title": "Dark indigo with oatmeal",
+      "duration": 2.85,
+      "asset": "assets/06_dark_indigo_with_oatmeal.mp4",
+      "colors": [
+        {
+          "name": "indigo",
+          "hex": "#2C4568"
+        },
+        {
+          "name": "oat",
+          "hex": "#DACAB2"
+        }
+      ],
+      "woman_outfit": "Dark-indigo jeans and oatmeal relaxed cashmere sweater",
+      "man_outfit": "Dark-indigo jeans and oatmeal fine-gauge knit",
+      "action": "Both models stand in fixed floor marks. Woman brief half-smile; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "07_black_denim_with_stone",
+      "title": "Black denim with stone",
+      "duration": 2.85,
+      "asset": "assets/07_black_denim_with_stone.mp4",
+      "colors": [
+        {
+          "name": "black denim",
+          "hex": "#242424"
+        },
+        {
+          "name": "stone",
+          "hex": "#C0BAB1"
+        }
+      ],
+      "woman_outfit": "Black fitted jeans with soft stone grey blazer and white shell",
+      "man_outfit": "Black straight denim with stone knit and structured grey jacket",
+      "action": "Both models stand in fixed floor marks. Woman show jacket hem with open palm; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "08_black_denim_with_burgundy",
+      "title": "Black denim with burgundy",
+      "duration": 2.85,
+      "asset": "assets/08_black_denim_with_burgundy.mp4",
+      "colors": [
+        {
+          "name": "black denim",
+          "hex": "#242424"
+        },
+        {
+          "name": "burgundy",
+          "hex": "#703542"
+        }
+      ],
+      "woman_outfit": "Black straight jeans with rich burgundy fine knit and black boots",
+      "man_outfit": "Black denim with burgundy textured shirt and black loafers",
+      "action": "Both models stand in fixed floor marks. Woman small finishing nod; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    }
+  ]
+}

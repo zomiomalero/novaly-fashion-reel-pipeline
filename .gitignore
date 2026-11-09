@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.env
+*.key
+*.pem
+*_token*
+outputs/
+renders/
+reference_analysis/
+prompt_pack/
+# Generated copyrighted/likeness-bearing media is always private by default.
+**/assets/*.mp4
+**/assets/*.mov
+**/assets/*.wav
+**/assets/*.m4a
+**/assets/*.jpg
+**/assets/*.png
+**/assets/*.webp
+# Smoke test outputs and large temp bundles.
+demo_output/
+*.mp4
+*.mov
+*.wav
+*.m4a
+
+# Source-derived reference study is PRIVATE and must never be tracked.
+private_reference_lab/
+research/private_*/
+# Model-specific or user asset outputs
+*_private_refs/

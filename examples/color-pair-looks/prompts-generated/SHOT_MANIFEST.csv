@@ -1,0 +1,11 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_olive_cream,3.0,0,90,assets/01_olive_cream.mp4,Olive and cream
+2,02_burgundy_beige,2.666667,90,170,assets/02_burgundy_beige.mp4,Burgundy and beige
+3,03_navy_camel,2.666667,170,250,assets/03_navy_camel.mp4,Navy and camel
+4,04_black_cream,2.666667,250,330,assets/04_black_cream.mp4,Black and cream
+5,05_pink_stone,2.666667,330,410,assets/05_pink_stone.mp4,Dusty pink and stone
+6,06_rust_ivory,2.666667,410,490,assets/06_rust_ivory.mp4,Rust and ivory
+7,07_chocolate_oat,2.666667,490,570,assets/07_chocolate_oat.mp4,Chocolate and oat
+8,08_slate_sand,2.666667,570,650,assets/08_slate_sand.mp4,Slate blue and sand
+9,09_plum_charcoal,2.666667,650,730,assets/09_plum_charcoal.mp4,Plum and charcoal
+10,10_forest_tan,2.666667,730,810,assets/10_forest_tan.mp4,Forest green and tan

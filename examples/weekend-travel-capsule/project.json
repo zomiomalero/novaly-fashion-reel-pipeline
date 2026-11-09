@@ -1,0 +1,170 @@
+{
+  "project": {
+    "title": "A compact weekend wardrobe with seven reliable outfit combinations",
+    "brand": "NOVALY",
+    "series": "Carry-on Wardrobe Planning",
+    "platform": "Instagram Reels, Facebook Reels, YouTube Shorts"
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18
+  },
+  "cast": {
+    "woman_identity": "Original adult woman in her late 20s, warm medium skin, deep brown eyes, medium-length dark auburn bob with a slight natural wave, expressive brows, slim natural build, 168 cm. Maintain same face and hairstyle in every look.",
+    "man_identity": "Original adult man in his early 30s, medium tan skin, dark brown eyes, neatly cropped dark brown hair with a natural hairline, lightly defined jaw, relaxed athletic build, 182 cm. Maintain same face and hairstyle in every look."
+  },
+  "studio": {
+    "description": "A distinctive original fashion studio: pale limestone side wall, warm ivory pleated fabric backdrop, mid-tone walnut display plinth holding one small abstract clay sculpture at right, matte pale stone floor, soft daylight-style key from upper-left, gentle fill from the right, subtle floor shadows. Camera is at chest height, 35-50 mm full-frame equivalent lens, straight-on full-body two-person framing; fixed tripod; same floor marks and body scale."
+  },
+  "audio": {
+    "voice": "",
+    "music": "",
+    "voice_gain_db": 0,
+    "music_gain_db": -18,
+    "target_lufs": -16
+  },
+  "scenes": [
+    {
+      "id": "01_travel_base",
+      "title": "Travel base",
+      "duration": 3.25,
+      "asset": "assets/01_travel_base.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#30405A"
+        },
+        {
+          "name": "beige",
+          "hex": "#CFBA9C"
+        }
+      ],
+      "woman_outfit": "Navy crew tee, beige comfortable tailored trouser, white low-profile sneakers",
+      "man_outfit": "Navy tee, beige relaxed chino and low-profile sneakers",
+      "action": "Both models stand in fixed floor marks. Woman small calm hand wave; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "02_daytime_layers",
+      "title": "Daytime layers",
+      "duration": 2.85,
+      "asset": "assets/02_daytime_layers.mp4",
+      "colors": [
+        {
+          "name": "cream",
+          "hex": "#E8DCCB"
+        },
+        {
+          "name": "dark denim",
+          "hex": "#344C70"
+        }
+      ],
+      "woman_outfit": "Cream cardigan over white top and dark straight denim",
+      "man_outfit": "Cream knit cardigan over white shirt and dark jeans",
+      "action": "Both models stand in fixed floor marks. Woman touch cardigan lapel; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "03_evening_restaurant",
+      "title": "Evening restaurant",
+      "duration": 2.85,
+      "asset": "assets/03_evening_restaurant.mp4",
+      "colors": [
+        {
+          "name": "black",
+          "hex": "#242326"
+        },
+        {
+          "name": "camel",
+          "hex": "#B69272"
+        }
+      ],
+      "woman_outfit": "Black soft wrap top, camel trouser and structured small bag",
+      "man_outfit": "Black open-collar linen shirt, camel tailored trouser and dark loafers",
+      "action": "Both models stand in fixed floor marks. Woman natural upright pose; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "04_light_weather",
+      "title": "Light weather",
+      "duration": 2.85,
+      "asset": "assets/04_light_weather.mp4",
+      "colors": [
+        {
+          "name": "olive",
+          "hex": "#5D6858"
+        },
+        {
+          "name": "stone",
+          "hex": "#C8C3B9"
+        }
+      ],
+      "woman_outfit": "Olive utility shirt, stone trousers and ivory shoes",
+      "man_outfit": "Olive utility overshirt, stone trousers and sneakers",
+      "action": "Both models stand in fixed floor marks. Woman gesture toward overshirt; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "05_cool_morning",
+      "title": "Cool morning",
+      "duration": 2.85,
+      "asset": "assets/05_cool_morning.mp4",
+      "colors": [
+        {
+          "name": "burgundy",
+          "hex": "#713643"
+        },
+        {
+          "name": "oatmeal",
+          "hex": "#D9CBB9"
+        }
+      ],
+      "woman_outfit": "Burgundy soft knit sweater with oat trousers and loafers",
+      "man_outfit": "Burgundy crew neck sweater and oat chinos",
+      "action": "Both models stand in fixed floor marks. Woman small head turn; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "06_casual_stroll",
+      "title": "Casual stroll",
+      "duration": 2.85,
+      "asset": "assets/06_casual_stroll.mp4",
+      "colors": [
+        {
+          "name": "powder blue",
+          "hex": "#A8C6E2"
+        },
+        {
+          "name": "white",
+          "hex": "#EEE7DE"
+        }
+      ],
+      "woman_outfit": "Light blue shirt over white tee, straight dark denim, minimal sneakers",
+      "man_outfit": "Light blue linen overshirt over white tee and denim",
+      "action": "Both models stand in fixed floor marks. Woman unbuttoned layer movement; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "07_return_look",
+      "title": "Return look",
+      "duration": 2.85,
+      "asset": "assets/07_return_look.mp4",
+      "colors": [
+        {
+          "name": "chocolate",
+          "hex": "#60463D"
+        },
+        {
+          "name": "cream",
+          "hex": "#E9E2D4"
+        }
+      ],
+      "woman_outfit": "Chocolate cardigan, cream long trousers and comfortable slip-on flats",
+      "man_outfit": "Chocolate polo sweater with cream chinos and suede loafers",
+      "action": "Both models stand in fixed floor marks. Woman final relaxed smile; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    }
+  ]
+}

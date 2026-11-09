@@ -1,0 +1,9 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_blazer_plus_clean_denim,3.266667,0,98,assets/01_blazer_plus_clean_denim.mp4,Blazer plus clean denim
+2,02_knit_with_pleats,2.866667,98,184,assets/02_knit_with_pleats.mp4,Knit with pleats
+3,03_white_shirt_and_cocoa,2.866667,184,270,assets/03_white_shirt_and_cocoa.mp4,White shirt and cocoa
+4,04_soft_pink_with_grey,2.866667,270,356,assets/04_soft_pink_with_grey.mp4,Soft pink with grey
+5,05_olive_with_black,2.866667,356,442,assets/05_olive_with_black.mp4,Olive with black
+6,06_blue_over_ecru,2.866667,442,528,assets/06_blue_over_ecru.mp4,Blue over ecru
+7,07_cream_with_burgundy,2.866667,528,614,assets/07_cream_with_burgundy.mp4,Cream with burgundy
+8,08_monochrome_charcoal,2.866667,614,700,assets/08_monochrome_charcoal.mp4,Monochrome charcoal

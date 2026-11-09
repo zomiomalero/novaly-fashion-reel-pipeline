@@ -1,0 +1,190 @@
+{
+  "project": {
+    "title": "Eight pieces that turn a small autumn capsule into many outfits",
+    "brand": "NOVALY",
+    "series": "Autumn Capsule Foundations",
+    "platform": "Instagram Reels, Facebook Reels, YouTube Shorts"
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18
+  },
+  "cast": {
+    "woman_identity": "Original adult woman in her late 20s, warm medium skin, deep brown eyes, medium-length dark auburn bob with a slight natural wave, expressive brows, slim natural build, 168 cm. Maintain same face and hairstyle in every look.",
+    "man_identity": "Original adult man in his early 30s, medium tan skin, dark brown eyes, neatly cropped dark brown hair with a natural hairline, lightly defined jaw, relaxed athletic build, 182 cm. Maintain same face and hairstyle in every look."
+  },
+  "studio": {
+    "description": "A distinctive original fashion studio: pale limestone side wall, warm ivory pleated fabric backdrop, mid-tone walnut display plinth holding one small abstract clay sculpture at right, matte pale stone floor, soft daylight-style key from upper-left, gentle fill from the right, subtle floor shadows. Camera is at chest height, 35-50 mm full-frame equivalent lens, straight-on full-body two-person framing; fixed tripod; same floor marks and body scale."
+  },
+  "audio": {
+    "voice": "",
+    "music": "",
+    "voice_gain_db": 0,
+    "music_gain_db": -18,
+    "target_lufs": -16
+  },
+  "scenes": [
+    {
+      "id": "01_chocolate_over_oatmeal",
+      "title": "Chocolate over oatmeal",
+      "duration": 3.25,
+      "asset": "assets/01_chocolate_over_oatmeal.mp4",
+      "colors": [
+        {
+          "name": "chocolate",
+          "hex": "#503B35"
+        },
+        {
+          "name": "oatmeal",
+          "hex": "#DBCCB5"
+        }
+      ],
+      "woman_outfit": "Chocolate soft cardigan, oatmeal high-rise tailored trousers, brown tote and loafers",
+      "man_outfit": "Chocolate wool overshirt, oatmeal pleated trousers, dark loafers",
+      "action": "Both models stand in fixed floor marks. Woman present cardigan neckline; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "02_stone_trench_and_navy",
+      "title": "Stone trench and navy",
+      "duration": 2.85,
+      "asset": "assets/02_stone_trench_and_navy.mp4",
+      "colors": [
+        {
+          "name": "stone",
+          "hex": "#BDB1A0"
+        },
+        {
+          "name": "navy",
+          "hex": "#243852"
+        }
+      ],
+      "woman_outfit": "Light stone trench over navy fine-knit top with navy straight trousers",
+      "man_outfit": "Stone trench over navy poplin shirt and navy trousers",
+      "action": "Both models stand in fixed floor marks. Woman turn lapel gently; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "03_burgundy_point_of_interest",
+      "title": "Burgundy point of interest",
+      "duration": 2.85,
+      "asset": "assets/03_burgundy_point_of_interest.mp4",
+      "colors": [
+        {
+          "name": "burgundy",
+          "hex": "#713B47"
+        },
+        {
+          "name": "beige",
+          "hex": "#CCBDA8"
+        }
+      ],
+      "woman_outfit": "Deep burgundy vest, oatmeal column skirt, brown belt and boots",
+      "man_outfit": "Burgundy fine-knit sweater with tan chinos and dark brown shoes",
+      "action": "Both models stand in fixed floor marks. Woman indicate vest hem once; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "04_olive_soft_layer",
+      "title": "Olive soft layer",
+      "duration": 2.85,
+      "asset": "assets/04_olive_soft_layer.mp4",
+      "colors": [
+        {
+          "name": "olive",
+          "hex": "#5A664D"
+        },
+        {
+          "name": "cream",
+          "hex": "#ECE3D4"
+        }
+      ],
+      "woman_outfit": "Olive utility jacket over cream tee and ivory wide trousers",
+      "man_outfit": "Olive relaxed overshirt over cream polo with cream tailored trousers",
+      "action": "Both models stand in fixed floor marks. Woman one small cuff adjustment; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "05_charcoal_and_stone",
+      "title": "Charcoal and stone",
+      "duration": 2.85,
+      "asset": "assets/05_charcoal_and_stone.mp4",
+      "colors": [
+        {
+          "name": "charcoal",
+          "hex": "#45464B"
+        },
+        {
+          "name": "stone",
+          "hex": "#CDC9C1"
+        }
+      ],
+      "woman_outfit": "Charcoal wool blazer, stone pleated trousers, simple black shoes",
+      "man_outfit": "Charcoal suit jacket over stone knit and light grey trousers",
+      "action": "Both models stand in fixed floor marks. Woman stand almost still; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "06_camel_over_denim",
+      "title": "Camel over denim",
+      "duration": 2.85,
+      "asset": "assets/06_camel_over_denim.mp4",
+      "colors": [
+        {
+          "name": "camel",
+          "hex": "#B98B62"
+        },
+        {
+          "name": "indigo",
+          "hex": "#4E6484"
+        }
+      ],
+      "woman_outfit": "Camel long wool layer, fitted white crew top, dark straight indigo jeans",
+      "man_outfit": "Camel overshirt, indigo jeans, pale cotton shirt, suede shoes",
+      "action": "Both models stand in fixed floor marks. Woman show denim silhouette; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "07_forest_and_oat",
+      "title": "Forest and oat",
+      "duration": 2.85,
+      "asset": "assets/07_forest_and_oat.mp4",
+      "colors": [
+        {
+          "name": "forest",
+          "hex": "#3D5446"
+        },
+        {
+          "name": "oatmeal",
+          "hex": "#E4D5BF"
+        }
+      ],
+      "woman_outfit": "Forest cardigan over oyster top and oatmeal trouser",
+      "man_outfit": "Forest knit polo with oatmeal tailored trousers",
+      "action": "Both models stand in fixed floor marks. Woman relaxed palms down; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "08_all_neutral_finale",
+      "title": "All-neutral finale",
+      "duration": 2.85,
+      "asset": "assets/08_all_neutral_finale.mp4",
+      "colors": [
+        {
+          "name": "ivory",
+          "hex": "#EFE6D7"
+        },
+        {
+          "name": "cocoa",
+          "hex": "#58483E"
+        }
+      ],
+      "woman_outfit": "Ivory textured jacket, cocoa trousers, dark suede bag and loafers",
+      "man_outfit": "Ivory knitwear with dark cocoa trousers and tan loafers",
+      "action": "Both models stand in fixed floor marks. Woman finish with subtle nod; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    }
+  ]
+}

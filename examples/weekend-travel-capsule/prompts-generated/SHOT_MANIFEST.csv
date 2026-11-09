@@ -1,0 +1,8 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_travel_base,3.266667,0,98,assets/01_travel_base.mp4,Travel base
+2,02_daytime_layers,2.866667,98,184,assets/02_daytime_layers.mp4,Daytime layers
+3,03_evening_restaurant,2.866667,184,270,assets/03_evening_restaurant.mp4,Evening restaurant
+4,04_light_weather,2.866667,270,356,assets/04_light_weather.mp4,Light weather
+5,05_cool_morning,2.866667,356,442,assets/05_cool_morning.mp4,Cool morning
+6,06_casual_stroll,2.866667,442,528,assets/06_casual_stroll.mp4,Casual stroll
+7,07_return_look,2.866667,528,614,assets/07_return_look.mp4,Return look

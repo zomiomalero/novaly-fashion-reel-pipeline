@@ -1,0 +1,190 @@
+{
+  "project": {
+    "title": "Work outfits that feel polished without looking overdressed",
+    "brand": "NOVALY",
+    "series": "Smart Casual Studio",
+    "platform": "Instagram Reels, Facebook Reels, YouTube Shorts"
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18
+  },
+  "cast": {
+    "woman_identity": "Original adult woman in her late 20s, warm medium skin, deep brown eyes, medium-length dark auburn bob with a slight natural wave, expressive brows, slim natural build, 168 cm. Maintain same face and hairstyle in every look.",
+    "man_identity": "Original adult man in his early 30s, medium tan skin, dark brown eyes, neatly cropped dark brown hair with a natural hairline, lightly defined jaw, relaxed athletic build, 182 cm. Maintain same face and hairstyle in every look."
+  },
+  "studio": {
+    "description": "A distinctive original fashion studio: pale limestone side wall, warm ivory pleated fabric backdrop, mid-tone walnut display plinth holding one small abstract clay sculpture at right, matte pale stone floor, soft daylight-style key from upper-left, gentle fill from the right, subtle floor shadows. Camera is at chest height, 35-50 mm full-frame equivalent lens, straight-on full-body two-person framing; fixed tripod; same floor marks and body scale."
+  },
+  "audio": {
+    "voice": "",
+    "music": "",
+    "voice_gain_db": 0,
+    "music_gain_db": -18,
+    "target_lufs": -16
+  },
+  "scenes": [
+    {
+      "id": "01_blazer_plus_clean_denim",
+      "title": "Blazer plus clean denim",
+      "duration": 3.25,
+      "asset": "assets/01_blazer_plus_clean_denim.mp4",
+      "colors": [
+        {
+          "name": "navy",
+          "hex": "#27394E"
+        },
+        {
+          "name": "mid-blue",
+          "hex": "#50729A"
+        }
+      ],
+      "woman_outfit": "Navy relaxed blazer, light shirt, straight mid-blue jeans, loafers",
+      "man_outfit": "Navy overshirt, clean mid-blue jeans, white shirt",
+      "action": "Both models stand in fixed floor marks. Woman point to structured shoulder; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "02_knit_with_pleats",
+      "title": "Knit with pleats",
+      "duration": 2.85,
+      "asset": "assets/02_knit_with_pleats.mp4",
+      "colors": [
+        {
+          "name": "oat",
+          "hex": "#D6C8B0"
+        },
+        {
+          "name": "charcoal",
+          "hex": "#434750"
+        }
+      ],
+      "woman_outfit": "Oat fitted knit top and charcoal tailored pleated trousers",
+      "man_outfit": "Oat crew-neck knit and charcoal tapered pleated trousers",
+      "action": "Both models stand in fixed floor marks. Woman natural weight shift; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "03_white_shirt_and_cocoa",
+      "title": "White shirt and cocoa",
+      "duration": 2.85,
+      "asset": "assets/03_white_shirt_and_cocoa.mp4",
+      "colors": [
+        {
+          "name": "white",
+          "hex": "#F4EFE8"
+        },
+        {
+          "name": "cocoa",
+          "hex": "#563E37"
+        }
+      ],
+      "woman_outfit": "White oversized cotton shirt tucked into cocoa fluid trouser, simple belt",
+      "man_outfit": "White Oxford shirt, brown tailored chino and dark loafer",
+      "action": "Both models stand in fixed floor marks. Woman brief cuff adjustment; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "04_soft_pink_with_grey",
+      "title": "Soft pink with grey",
+      "duration": 2.85,
+      "asset": "assets/04_soft_pink_with_grey.mp4",
+      "colors": [
+        {
+          "name": "pink",
+          "hex": "#CC9FAA"
+        },
+        {
+          "name": "slate",
+          "hex": "#737D89"
+        }
+      ],
+      "woman_outfit": "Dusty rose fine-knit top and slate-grey straight trouser",
+      "man_outfit": "Dusty pink shirt under grey relaxed jacket and grey trouser",
+      "action": "Both models stand in fixed floor marks. Woman small relaxed smile; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "05_olive_with_black",
+      "title": "Olive with black",
+      "duration": 2.85,
+      "asset": "assets/05_olive_with_black.mp4",
+      "colors": [
+        {
+          "name": "olive",
+          "hex": "#526044"
+        },
+        {
+          "name": "black",
+          "hex": "#24252B"
+        }
+      ],
+      "woman_outfit": "Olive fitted top, tailored black wide trousers, low boots",
+      "man_outfit": "Olive polo shirt with tailored black trousers and black shoes",
+      "action": "Both models stand in fixed floor marks. Woman hands rest at sides; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "06_blue_over_ecru",
+      "title": "Blue over ecru",
+      "duration": 2.85,
+      "asset": "assets/06_blue_over_ecru.mp4",
+      "colors": [
+        {
+          "name": "powder blue",
+          "hex": "#A6C4D7"
+        },
+        {
+          "name": "ecru",
+          "hex": "#EBE5D5"
+        }
+      ],
+      "woman_outfit": "Powder-blue blazer over ecru shell with cream long trousers",
+      "man_outfit": "Powder-blue shirt, ecru trousers, grey-brown loafers",
+      "action": "Both models stand in fixed floor marks. Woman open palm toward trousers; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "07_cream_with_burgundy",
+      "title": "Cream with burgundy",
+      "duration": 2.85,
+      "asset": "assets/07_cream_with_burgundy.mp4",
+      "colors": [
+        {
+          "name": "cream",
+          "hex": "#E8DFC9"
+        },
+        {
+          "name": "burgundy",
+          "hex": "#6C3442"
+        }
+      ],
+      "woman_outfit": "Cream poplin shirt under burgundy knit vest with charcoal skirt",
+      "man_outfit": "Cream Oxford under burgundy sweater with charcoal wool trousers",
+      "action": "Both models stand in fixed floor marks. Woman blink and slight head turn; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    },
+    {
+      "id": "08_monochrome_charcoal",
+      "title": "Monochrome charcoal",
+      "duration": 2.85,
+      "asset": "assets/08_monochrome_charcoal.mp4",
+      "colors": [
+        {
+          "name": "charcoal",
+          "hex": "#3D424A"
+        },
+        {
+          "name": "graphite",
+          "hex": "#6F727A"
+        }
+      ],
+      "woman_outfit": "Charcoal sleeveless blazer and graphite tailored trousers",
+      "man_outfit": "Charcoal open-collar shirt, graphite jacket and matching trousers",
+      "action": "Both models stand in fixed floor marks. Woman finish stable posture; man makes one minimal natural reaction.",
+      "rights": "original_or_permission_required"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+look,id,duration_s,first_frame,end_frame_exclusive,asset,title
+1,01_wide_fit,3.533333,0,106,assets/01_wide_fit.mp4,Wide jeans and fitted top
+2,02_slim_relaxed,3.333333,106,206,assets/02_slim_relaxed.mp4,Slim jeans and relaxed top
+3,03_straight_tailored,3.333333,206,306,assets/03_straight_tailored.mp4,Straight jeans and tailored layer
+4,04_barrel_clean,3.333333,306,406,assets/04_barrel_clean.mp4,Barrel jeans and clean top
+5,05_bootcut_elegant,3.333333,406,506,assets/05_bootcut_elegant.mp4,Bootcut jeans and elegant blouse
+6,06_light_denim_fresh,3.533333,506,612,assets/06_light_denim_fresh.mp4,Light denim and soft neutral

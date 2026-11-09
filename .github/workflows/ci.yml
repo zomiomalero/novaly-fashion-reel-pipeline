@@ -1,0 +1,28 @@
+name: pipeline-ci
+on:
+  push:
+  pull_request:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Ensure FFmpeg available
+        run: ffmpeg -version && ffprobe -version
+      - name: Install
+        run: python -m pip install -e .
+      - name: Validate all seven production templates
+        run: |
+          for project in examples/*/project.json; do
+            fashionreel validate "$project"
+          done
+      - name: Lint generated prompt packs
+        run: |
+          for prompts in examples/*/prompts-generated; do
+            fashionreel prompt-audit "$prompts" --out /tmp/novaly-prompt-audit.json
+          done
+      - name: Unit and end-to-end smoke tests
+        run: python -m unittest discover -s tests -v

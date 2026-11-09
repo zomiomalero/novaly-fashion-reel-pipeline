@@ -1,0 +1,148 @@
+{
+  "project": {
+    "title": "The simplest way to balance six denim shapes",
+    "brand": "NOVALY",
+    "series": "Denim Made Simple"
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18
+  },
+  "cast": {
+    "woman_identity": "Original adult female fashion presenter, warm medium skin, shoulder-length dark auburn bob, deep brown eyes, consistent facial proportions and height. Use original locked character sheet.",
+    "man_identity": "Original adult male fashion presenter, medium tan skin, short dark hair, relaxed athletic build, deep brown eyes, consistent facial proportions and height. Use original locked character sheet."
+  },
+  "studio": {
+    "description": "Same original editorial studio throughout: ivory pleated wall, narrow warm limestone wing, walnut sculpture plinth right, pale stone floor, diffuse natural softbox from left; straight-on full-body tripod shot with head-to-shoe framing."
+  },
+  "audio": {
+    "voice": "",
+    "music": "",
+    "music_gain_db": -18,
+    "target_lufs": -16
+  },
+  "scenes": [
+    {
+      "id": "01_wide_fit",
+      "title": "Wide jeans and fitted top",
+      "duration": 3.55,
+      "asset": "assets/01_wide_fit.mp4",
+      "colors": [
+        {
+          "name": "denim",
+          "hex": "#53749A"
+        },
+        {
+          "name": "white",
+          "hex": "#F4F1EA"
+        }
+      ],
+      "woman_outfit": "Mid-blue wide-leg jeans, close-fitting white cotton crew tee, narrow belt, minimal flats.",
+      "man_outfit": "Mid-blue relaxed wide jeans, fitted cream polo shirt and minimal low-profile sneakers.",
+      "action": "Woman points briefly toward the wider hem; man stays relaxed, hands near pockets.",
+      "formula": "wide-leg jeans + fitted tops"
+    },
+    {
+      "id": "02_slim_relaxed",
+      "title": "Slim jeans and relaxed top",
+      "duration": 3.35,
+      "asset": "assets/02_slim_relaxed.mp4",
+      "colors": [
+        {
+          "name": "indigo",
+          "hex": "#253952"
+        },
+        {
+          "name": "cream",
+          "hex": "#E7DFD3"
+        }
+      ],
+      "woman_outfit": "Dark-indigo slim jeans, slightly oversized cream poplin shirt, brown shoulder bag, loafers.",
+      "man_outfit": "Slim dark-indigo jeans with cream casual knit and suede loafers.",
+      "action": "A subtle shirt-adjustment and a small natural weight shift.",
+      "formula": "slim jeans + relaxed tops"
+    },
+    {
+      "id": "03_straight_tailored",
+      "title": "Straight jeans and tailored layer",
+      "duration": 3.35,
+      "asset": "assets/03_straight_tailored.mp4",
+      "colors": [
+        {
+          "name": "blue denim",
+          "hex": "#557C9E"
+        },
+        {
+          "name": "taupe",
+          "hex": "#A58F7B"
+        }
+      ],
+      "woman_outfit": "Straight-cut medium blue jeans with tailored taupe waistcoat and low-heel shoes.",
+      "man_outfit": "Straight-cut jeans, taupe fine-knit top, light relaxed blazer and brown loafers.",
+      "action": "Both stand naturally, and the woman makes a tiny one-handed gesture.",
+      "formula": "straight jeans + tailored layers"
+    },
+    {
+      "id": "04_barrel_clean",
+      "title": "Barrel jeans and clean top",
+      "duration": 3.35,
+      "asset": "assets/04_barrel_clean.mp4",
+      "colors": [
+        {
+          "name": "washed blue",
+          "hex": "#6988A6"
+        },
+        {
+          "name": "black",
+          "hex": "#151515"
+        }
+      ],
+      "woman_outfit": "Soft barrel jeans with a close-fitting black tank top and minimalist leather handbag.",
+      "man_outfit": "Tapered barrel-cut jeans in dark blue with clean black casual tee and low-profile loafers.",
+      "action": "Natural posture and subtle breathing, no exaggerated motion.",
+      "formula": "barrel jeans + minimal tops"
+    },
+    {
+      "id": "05_bootcut_elegant",
+      "title": "Bootcut jeans and elegant blouse",
+      "duration": 3.35,
+      "asset": "assets/05_bootcut_elegant.mp4",
+      "colors": [
+        {
+          "name": "dark denim",
+          "hex": "#253B55"
+        },
+        {
+          "name": "burgundy",
+          "hex": "#722F40"
+        }
+      ],
+      "woman_outfit": "Deep-indigo bootcut jeans with elegant burgundy v-neck blouse, small structured bag and heeled shoes.",
+      "man_outfit": "Dark bootcut-inspired straight jeans with a burgundy knit under a tailored dark layer.",
+      "action": "Woman turns shoulders slightly toward the camera; man remains naturally still.",
+      "formula": "bootcut jeans + elegant tops"
+    },
+    {
+      "id": "06_light_denim_fresh",
+      "title": "Light denim and soft neutral",
+      "duration": 3.55,
+      "asset": "assets/06_light_denim_fresh.mp4",
+      "colors": [
+        {
+          "name": "light denim",
+          "hex": "#A0BDD2"
+        },
+        {
+          "name": "sage",
+          "hex": "#9AA68C"
+        }
+      ],
+      "woman_outfit": "Light blue wide-leg jeans with a sage-green fitted knit, light leather bag and white shoes.",
+      "man_outfit": "Light blue relaxed jeans with soft sage fine knit, pale sneakers and matching minimal belt.",
+      "action": "Woman makes one relaxed explanatory gesture; man gives a small smile; maintain exact framing.",
+      "formula": "light jeans + soft colors"
+    }
+  ]
+}
